@@ -1,0 +1,3 @@
+Enter an integer: Integer box: 8
+As a double: 8.0
+Double box: 12.5

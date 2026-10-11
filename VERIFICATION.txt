@@ -1,0 +1,5 @@
+Verified with JDK 24.0.1 using javac --release 8 -Xlint:all,-options. (JDK obsolete-target notices suppressed.)
+47 programs compiled without lint warnings.
+47 sample runs passed semantic output checks.
+36 additional edge-case runs passed.
+Sample output may vary for timing, shuffling, hashing, threading, and garbage collection.

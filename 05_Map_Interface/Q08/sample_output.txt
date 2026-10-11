@@ -1,0 +1,8 @@
+How many key-value pairs? Integer key: String value: Integer key: String value: Integer key: String value: HashMap: order is not guaranteed
+20 -> B
+10 -> A
+30 -> C
+LinkedHashMap: insertion order
+30 -> C
+10 -> A
+20 -> B

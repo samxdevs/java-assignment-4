@@ -1,0 +1,6 @@
+How many tasks? A smaller priority number means higher priority.
+Task description: Priority number: Task description: Priority number: Task description: Priority number: Removed highest-priority task: Exam preparation (priority 1)
+Remaining tasks in priority order:
+Shopping (priority 2)
+Homework (priority 3)
+Original remaining queue size: 2

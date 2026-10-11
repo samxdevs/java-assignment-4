@@ -1,0 +1,4 @@
+How many products? Product name: Price: Product name: Price: Product name: Price: Products sorted by name:
+Book -> 80.00
+Eraser -> 5.25
+Pen -> 12.50

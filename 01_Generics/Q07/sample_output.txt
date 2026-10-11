@@ -1,0 +1,2 @@
+Enter a string for the box: Enter an integer for the box: String box contains: Notebook
+Integer box contains: 25

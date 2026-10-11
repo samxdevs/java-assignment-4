@@ -1,0 +1,12 @@
+How many integers? Integer 1: Integer 2: Integer 3: Simple for loop:
+2
+4
+6
+Enhanced for loop:
+2
+4
+6
+While loop with Iterator:
+2
+4
+6

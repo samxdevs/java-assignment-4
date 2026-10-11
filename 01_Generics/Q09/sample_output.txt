@@ -1,0 +1,11 @@
+How many integers to push? Integer: Integer: Integer: How many strings to push? String: String: Integer stack size: 3
+Top using peek: 3
+Popping in LIFO order:
+3
+2
+1
+String stack size: 2
+Top using peek: last
+Popping in LIFO order:
+last
+first

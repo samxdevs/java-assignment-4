@@ -1,0 +1,2 @@
+Enter some text: Enter an integer: String container: Hello Java
+Integer container: 42

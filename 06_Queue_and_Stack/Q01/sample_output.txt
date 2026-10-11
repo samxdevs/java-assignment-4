@@ -1,0 +1,18 @@
+
+        1. Join queue  2. Book next ticket  3. Display queue  0. Exit
+Choice: Customer name: Customer joined the queue.
+
+        1. Join queue  2. Book next ticket  3. Display queue  0. Exit
+Choice: Customer name: Customer joined the queue.
+
+        1. Join queue  2. Book next ticket  3. Display queue  0. Exit
+Choice: Waiting customers: [Asha, Ravi]
+
+        1. Join queue  2. Book next ticket  3. Display queue  0. Exit
+Choice: Ticket booked for: Asha
+
+        1. Join queue  2. Book next ticket  3. Display queue  0. Exit
+Choice: Waiting customers: [Ravi]
+
+        1. Join queue  2. Book next ticket  3. Display queue  0. Exit
+Choice:

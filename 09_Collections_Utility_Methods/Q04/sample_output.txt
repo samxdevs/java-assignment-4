@@ -1,0 +1,4 @@
+How many strings? String 1: String 2: Unmodifiable view: [apple, banana]
+String to attempt to add: Caught UnsupportedOperationException: cannot modify this view.
+View after rejected add: [apple, banana]
+View after adding through backing list: [apple, banana, cherry]

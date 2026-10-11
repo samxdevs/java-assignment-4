@@ -1,0 +1,6 @@
+First element to add at the front: Second element to add at the back: Third element to add at the front: Fourth element to add at the back: Deque: [C, A, B, D]
+Front using peekFirst: C
+Back using peekLast: D
+Removed front: C
+Removed back: D
+Remaining deque: [A, B]

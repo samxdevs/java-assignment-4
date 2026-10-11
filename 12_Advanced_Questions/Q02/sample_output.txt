@@ -1,0 +1,10 @@
+1. Create account  2. Deposit  3. Withdraw  4. Balance  5. Display  0. Exit
+Choice: Customer ID: Opening balance: Account created. Balance: 100.00
+1. Create account  2. Deposit  3. Withdraw  4. Balance  5. Display  0. Exit
+Choice: Customer ID: Deposit amount: Balance: 150.25
+1. Create account  2. Deposit  3. Withdraw  4. Balance  5. Display  0. Exit
+Choice: Customer ID: Withdrawal amount: Balance: 125.15
+1. Create account  2. Deposit  3. Withdraw  4. Balance  5. Display  0. Exit
+Choice: Customer ID: Balance: 125.15
+1. Create account  2. Deposit  3. Withdraw  4. Balance  5. Display  0. Exit
+Choice:

@@ -1,0 +1,4 @@
+How many key-value pairs? Integer key: String value: Integer key: String value: Integer key: String value: Entries in ascending key order:
+1 -> one
+2 -> two
+3 -> three

@@ -1,0 +1,8 @@
+How many strings to add? String: After add: [apple]
+String: After add: [apple, banana]
+String: After add: [apple, banana, cherry]
+String: After add: [apple, banana, cherry, date]
+Value to remove: Removed by value? true
+After removal by value: [apple, cherry, date]
+Index to remove (starts at 0): After removal by index: [cherry, date]
+Index to replace (starts at 0): Replacement string: After replacement: [cherry, orange]

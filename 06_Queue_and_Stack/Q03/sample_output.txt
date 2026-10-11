@@ -1,0 +1,21 @@
+
+        1. Push  2. Pop  3. Peek  4. Check empty  5. Display  0. Exit
+Choice: Integer to push: Stack: [10]
+
+        1. Push  2. Pop  3. Peek  4. Check empty  5. Display  0. Exit
+Choice: Integer to push: Stack: [10, 20]
+
+        1. Push  2. Pop  3. Peek  4. Check empty  5. Display  0. Exit
+Choice: Top: 20
+
+        1. Push  2. Pop  3. Peek  4. Check empty  5. Display  0. Exit
+Choice: Popped: 20
+
+        1. Push  2. Pop  3. Peek  4. Check empty  5. Display  0. Exit
+Choice: Empty? false
+
+        1. Push  2. Pop  3. Peek  4. Check empty  5. Display  0. Exit
+Choice: Stack (top is at the right): [10]
+
+        1. Push  2. Pop  3. Peek  4. Check empty  5. Display  0. Exit
+Choice:

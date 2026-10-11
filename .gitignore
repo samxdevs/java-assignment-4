@@ -1,0 +1,13 @@
+# Java compiler output
+*.class
+
+# Local editor and operating system files
+.DS_Store
+.idea/
+.vscode/
+*.iml
+
+# Build output
+out/
+build/
+target/

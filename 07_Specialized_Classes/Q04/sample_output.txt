@@ -1,0 +1,7 @@
+How many integers? Integer 1: Integer 2: Integer 3: Queue: [5, 10, 15]
+Front: 5
+Removing in FIFO order:
+5
+10
+15
+Empty after removal? true

@@ -1,0 +1,284 @@
+[
+  {
+    "section": 1,
+    "question": 2,
+    "folder": "01_Generics/Q02",
+    "main": "GenericClassDemo"
+  },
+  {
+    "section": 1,
+    "question": 3,
+    "folder": "01_Generics/Q03",
+    "main": "BoundedTypeDemo"
+  },
+  {
+    "section": 1,
+    "question": 4,
+    "folder": "01_Generics/Q04",
+    "main": "WildcardDemo"
+  },
+  {
+    "section": 1,
+    "question": 6,
+    "folder": "01_Generics/Q06",
+    "main": "PairDemo"
+  },
+  {
+    "section": 1,
+    "question": 7,
+    "folder": "01_Generics/Q07",
+    "main": "BoxDemo"
+  },
+  {
+    "section": 1,
+    "question": 8,
+    "folder": "01_Generics/Q08",
+    "main": "SwapDemo"
+  },
+  {
+    "section": 1,
+    "question": 9,
+    "folder": "01_Generics/Q09",
+    "main": "GenericStackDemo"
+  },
+  {
+    "section": 1,
+    "question": 10,
+    "folder": "01_Generics/Q10",
+    "main": "MinMaxDemo"
+  },
+  {
+    "section": 2,
+    "question": 11,
+    "folder": "02_Java_Util_and_Collections/Q11",
+    "main": "ListIterationDemo"
+  },
+  {
+    "section": 2,
+    "question": 12,
+    "folder": "02_Java_Util_and_Collections/Q12",
+    "main": "PrintCollectionDemo"
+  },
+  {
+    "section": 3,
+    "question": 3,
+    "folder": "03_List_Interface/Q03",
+    "main": "ArrayListDemo"
+  },
+  {
+    "section": 3,
+    "question": 6,
+    "folder": "03_List_Interface/Q06",
+    "main": "ListOperationsDemo"
+  },
+  {
+    "section": 3,
+    "question": 7,
+    "folder": "03_List_Interface/Q07",
+    "main": "ListPerformanceDemo"
+  },
+  {
+    "section": 3,
+    "question": 8,
+    "folder": "03_List_Interface/Q08",
+    "main": "SortStringsDemo"
+  },
+  {
+    "section": 4,
+    "question": 3,
+    "folder": "04_Set_Interface/Q03",
+    "main": "TreeSetDemo"
+  },
+  {
+    "section": 4,
+    "question": 6,
+    "folder": "04_Set_Interface/Q06",
+    "main": "HashSetUniquenessDemo"
+  },
+  {
+    "section": 4,
+    "question": 7,
+    "folder": "04_Set_Interface/Q07",
+    "main": "TreeSetOperationsDemo"
+  },
+  {
+    "section": 4,
+    "question": 8,
+    "folder": "04_Set_Interface/Q08",
+    "main": "LinkedHashSetDemo"
+  },
+  {
+    "section": 5,
+    "question": 4,
+    "folder": "05_Map_Interface/Q04",
+    "main": "TreeMapDemo"
+  },
+  {
+    "section": 5,
+    "question": 6,
+    "folder": "05_Map_Interface/Q06",
+    "main": "EmployeeMapDemo"
+  },
+  {
+    "section": 5,
+    "question": 7,
+    "folder": "05_Map_Interface/Q07",
+    "main": "UnsortedKeysDemo"
+  },
+  {
+    "section": 5,
+    "question": 8,
+    "folder": "05_Map_Interface/Q08",
+    "main": "MapOrderDemo"
+  },
+  {
+    "section": 6,
+    "question": 1,
+    "folder": "06_Queue_and_Stack/Q01",
+    "main": "TicketBookingDemo"
+  },
+  {
+    "section": 6,
+    "question": 2,
+    "folder": "06_Queue_and_Stack/Q02",
+    "main": "PriorityTasksDemo"
+  },
+  {
+    "section": 6,
+    "question": 3,
+    "folder": "06_Queue_and_Stack/Q03",
+    "main": "StackClassDemo"
+  },
+  {
+    "section": 6,
+    "question": 4,
+    "folder": "06_Queue_and_Stack/Q04",
+    "main": "ArrayDequeDemo"
+  },
+  {
+    "section": 6,
+    "question": 5,
+    "folder": "06_Queue_and_Stack/Q05",
+    "main": "PalindromeDemo"
+  },
+  {
+    "section": 7,
+    "question": 4,
+    "folder": "07_Specialized_Classes/Q04",
+    "main": "LinkedListQueueDemo"
+  },
+  {
+    "section": 8,
+    "question": 2,
+    "folder": "08_Concurrency_and_Thread_Safety/Q02",
+    "main": "VectorThreadDemo"
+  },
+  {
+    "section": 8,
+    "question": 4,
+    "folder": "08_Concurrency_and_Thread_Safety/Q04",
+    "main": "ConcurrentMapDemo"
+  },
+  {
+    "section": 8,
+    "question": 6,
+    "folder": "08_Concurrency_and_Thread_Safety/Q06",
+    "main": "CopyOnWriteDemo"
+  },
+  {
+    "section": 9,
+    "question": 2,
+    "folder": "09_Collections_Utility_Methods/Q02",
+    "main": "ShuffleSortDemo"
+  },
+  {
+    "section": 9,
+    "question": 4,
+    "folder": "09_Collections_Utility_Methods/Q04",
+    "main": "UnmodifiableListDemo"
+  },
+  {
+    "section": 9,
+    "question": 5,
+    "folder": "09_Collections_Utility_Methods/Q05",
+    "main": "BinarySearchDemo"
+  },
+  {
+    "section": 9,
+    "question": 6,
+    "folder": "09_Collections_Utility_Methods/Q06",
+    "main": "FrequencyDemo"
+  },
+  {
+    "section": 10,
+    "question": 1,
+    "folder": "10_Custom_Comparator/Q01",
+    "main": "StudentComparatorDemo"
+  },
+  {
+    "section": 10,
+    "question": 2,
+    "folder": "10_Custom_Comparator/Q02",
+    "main": "MapValueSortDemo"
+  },
+  {
+    "section": 11,
+    "question": 1,
+    "folder": "11_Practical_Use_Cases/Q01",
+    "main": "LruCacheDemo"
+  },
+  {
+    "section": 11,
+    "question": 2,
+    "folder": "11_Practical_Use_Cases/Q02",
+    "main": "TodoListApp"
+  },
+  {
+    "section": 11,
+    "question": 3,
+    "folder": "11_Practical_Use_Cases/Q03",
+    "main": "CharacterFrequencyDemo"
+  },
+  {
+    "section": 11,
+    "question": 4,
+    "folder": "11_Practical_Use_Cases/Q04",
+    "main": "StudentGradesApp"
+  },
+  {
+    "section": 11,
+    "question": 5,
+    "folder": "11_Practical_Use_Cases/Q05",
+    "main": "MergePriorityQueuesDemo"
+  },
+  {
+    "section": 12,
+    "question": 1,
+    "folder": "12_Advanced_Questions/Q01",
+    "main": "MultiMapDemo"
+  },
+  {
+    "section": 12,
+    "question": 2,
+    "folder": "12_Advanced_Questions/Q02",
+    "main": "BankingApp"
+  },
+  {
+    "section": 12,
+    "question": 3,
+    "folder": "12_Advanced_Questions/Q03",
+    "main": "WeakHashMapDemo"
+  },
+  {
+    "section": 12,
+    "question": 4,
+    "folder": "12_Advanced_Questions/Q04",
+    "main": "BookCatalogApp"
+  },
+  {
+    "section": 12,
+    "question": 5,
+    "folder": "12_Advanced_Questions/Q05",
+    "main": "ProductPricesDemo"
+  }
+]

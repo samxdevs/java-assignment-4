@@ -1,0 +1,8 @@
+1. Add/update book  2. Search by title  3. Display catalog  0. Exit
+Choice: Book title: Author name: Book saved.
+1. Add/update book  2. Search by title  3. Display catalog  0. Exit
+Choice: Exact title to search: Author: J. R. R. Tolkien
+1. Add/update book  2. Search by title  3. Display catalog  0. Exit
+Choice: The Hobbit -> J. R. R. Tolkien
+1. Add/update book  2. Search by title  3. Display catalog  0. Exit
+Choice:

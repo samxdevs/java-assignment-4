@@ -1,0 +1,4 @@
+How many integers? Integer 1: Integer 2: Integer 3: How many strings? String 1: String 2: String 3: Before swap: [10, 20, 30]
+First index (starts at 0): Second index (starts at 0): After swap: [30, 20, 10]
+Before swap: [red, blue, green]
+First index (starts at 0): Second index (starts at 0): After swap: [blue, red, green]

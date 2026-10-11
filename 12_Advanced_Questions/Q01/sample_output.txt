@@ -1,0 +1,4 @@
+How many key-value pairs (repeat a key)? Key: Value: Key: Value: Key: Value: Values grouped by key:
+color -> [red]
+fruit -> [apple, banana]
+Key to query: Values: [apple, banana]

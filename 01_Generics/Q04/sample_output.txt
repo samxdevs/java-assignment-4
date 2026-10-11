@@ -1,0 +1,2 @@
+How many integers? Integer 1: Integer 2: Integer 3: Sum from extends wildcard: 30.0
+Numbers added through super wildcard: [5, 10, 15]

@@ -1,0 +1,8 @@
+3
+fruit
+apple
+color
+red
+fruit
+banana
+fruit

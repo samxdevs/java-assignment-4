@@ -1,0 +1,7 @@
+How many employees? Employee ID: Employee name: Employee ID: Employee name: Employee ID to check: Key exists? true
+Using keySet:
+101 -> Asha
+102 -> Ravi
+Using entrySet:
+101 -> Asha
+102 -> Ravi

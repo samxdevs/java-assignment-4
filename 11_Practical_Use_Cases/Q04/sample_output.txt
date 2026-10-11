@@ -1,0 +1,15 @@
+1. Add/update grade  2. Remove student  3. Query grade  4. Display  0. Exit
+Choice: Student name: Grade: Grade saved.
+1. Add/update grade  2. Remove student  3. Query grade  4. Display  0. Exit
+Choice: Student name: Grade: Grade saved.
+1. Add/update grade  2. Remove student  3. Query grade  4. Display  0. Exit
+Choice: Asha -> A
+Ravi -> B
+1. Add/update grade  2. Remove student  3. Query grade  4. Display  0. Exit
+Choice: Student to query: Grade: B
+1. Add/update grade  2. Remove student  3. Query grade  4. Display  0. Exit
+Choice: Student to remove: Student removed.
+1. Add/update grade  2. Remove student  3. Query grade  4. Display  0. Exit
+Choice: Ravi -> B
+1. Add/update grade  2. Remove student  3. Query grade  4. Display  0. Exit
+Choice:

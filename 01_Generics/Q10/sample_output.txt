@@ -1,0 +1,4 @@
+How many integers? Integer 1: Integer 2: Integer 3: Integer 4: How many strings? String: String: String: Integers minimum: -2
+Integers maximum: 15
+Strings minimum: apple
+Strings maximum: pear

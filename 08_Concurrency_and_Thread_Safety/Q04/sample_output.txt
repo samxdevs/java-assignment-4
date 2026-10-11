@@ -1,0 +1,3 @@
+Counter increments per worker: Value observed during updates: visits=0
+Expected final visits: 2000
+Actual final visits: 2000

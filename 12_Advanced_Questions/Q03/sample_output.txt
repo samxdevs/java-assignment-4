@@ -1,0 +1,5 @@
+Size before releasing the key: 2
+Size after GC requests: 1
+Retained key still present? true
+The released key was garbage-collected.
+Remaining entries: {Retained key=This entry should remain}

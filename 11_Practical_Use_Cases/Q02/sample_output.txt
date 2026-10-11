@@ -1,0 +1,13 @@
+1. Add task  2. Remove task  3. Display tasks  0. Exit
+Choice: Task: Task added.
+1. Add task  2. Remove task  3. Display tasks  0. Exit
+Choice: Task: Task added.
+1. Add task  2. Remove task  3. Display tasks  0. Exit
+Choice: 1. Study Java
+2. Finish assignment
+1. Add task  2. Remove task  3. Display tasks  0. Exit
+Choice: Task number to remove (starts at 1): Removed: Study Java
+1. Add task  2. Remove task  3. Display tasks  0. Exit
+Choice: 1. Finish assignment
+1. Add task  2. Remove task  3. Display tasks  0. Exit
+Choice:

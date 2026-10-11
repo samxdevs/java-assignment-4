@@ -1,0 +1,14 @@
+Cache capacity (positive): 1. Put  2. Get  3. Display  0. Exit
+Choice: Key: Value: Cache from least to most recently used: {A=apple}
+1. Put  2. Get  3. Display  0. Exit
+Choice: Key: Value: Cache from least to most recently used: {A=apple, B=banana}
+1. Put  2. Get  3. Display  0. Exit
+Choice: Key to read: Value: apple
+1. Put  2. Get  3. Display  0. Exit
+Choice: Key: Value: Cache from least to most recently used: {A=apple, C=cherry}
+1. Put  2. Get  3. Display  0. Exit
+Choice: Cache from least to most recently used: {A=apple, C=cherry}
+1. Put  2. Get  3. Display  0. Exit
+Choice: Key to read: Key not found.
+1. Put  2. Get  3. Display  0. Exit
+Choice:

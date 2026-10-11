@@ -1,0 +1,9 @@
+Number of elements (try 5000): ArrayList:
+  Add at beginning: 341042 ns
+  Remove from middle: 173667 ns
+  Iterate: 124458 ns; sum = 499500
+LinkedList:
+  Add at beginning: 184125 ns
+  Remove from middle: 543625 ns
+  Iterate: 124791 ns; sum = 499500
+Timings vary. This is a simple classroom comparison.

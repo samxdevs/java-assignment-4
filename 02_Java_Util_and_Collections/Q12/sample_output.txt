@@ -1,0 +1,15 @@
+How many strings? String 1: String 2: String 3: List:
+red
+blue
+red
+Set (unique values):
+red
+blue
+Queue:
+red
+blue
+red
+Integer collection:
+10
+20
+30

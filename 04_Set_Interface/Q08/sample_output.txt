@@ -1,0 +1,4 @@
+How many strings? String 1: String 2: String 3: String 4: First-insertion order, with duplicates removed:
+red
+blue
+green

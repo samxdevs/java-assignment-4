@@ -1,0 +1,16 @@
+2
+1
+A
+apple
+1
+B
+banana
+2
+A
+1
+C
+cherry
+3
+2
+B
+0

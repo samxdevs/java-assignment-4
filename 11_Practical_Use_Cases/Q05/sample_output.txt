@@ -1,0 +1,8 @@
+How many integers in the first queue? Integer: Integer: Integer: How many integers in the second queue? Integer: Integer: Integer: Merged values in ascending order:
+1
+1
+2
+3
+4
+5
+Original queue sizes: 3, 3

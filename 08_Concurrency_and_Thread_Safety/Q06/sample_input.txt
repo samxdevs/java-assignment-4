@@ -1,0 +1,6 @@
+3
+apple
+banana
+cherry
+date
+banana

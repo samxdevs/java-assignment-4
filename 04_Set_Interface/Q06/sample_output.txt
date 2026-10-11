@@ -1,0 +1,6 @@
+How many strings (include duplicates)? String: Added apple? true
+String: Added banana? true
+String: Added apple? false
+String: Added banana? false
+Unique elements (order unspecified): [banana, apple]
+Unique count: 2
